@@ -19,8 +19,8 @@ This project demonstrates how to **containerize a simple web application using D
 - **Docker**
 - **AWS ECR**
 - **AWS ECS (Fargate)**
-- **AWS CLI**
-- **VS Code**
+- **VS Code**  
+
 
 ---
 
